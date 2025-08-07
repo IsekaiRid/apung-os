@@ -1,0 +1,7 @@
+{
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.associations": {
+        "*.css": "tailwindcss",
+        "font8x8_basic.h": "c"
+    }
+}
